@@ -1,0 +1,3 @@
+#!/bin/sh
+set -xe
+javac Main.java && java Main
